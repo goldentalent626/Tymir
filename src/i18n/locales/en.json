@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "title": "Tymir Barr | Full Stack Engineer, AI & Data Visualization",
+    "description": "Portfolio of Tymir Barr, a Full Stack Engineer in Tampa, Florida building AI-driven applications, scalable platforms and data visualization tools."
+  },
+  "accessibility": {
+    "skipToContent": "Skip to content",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "openImage": "Open image preview",
+    "closeModal": "Close preview",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "orcid": "ORCID",
+    "email": "Mail",
+    "mobileNavigation": "Mobile navigation"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "expertise": "Expertise",
+    "experience": "Experience",
+    "credentials": "Certifications",
+    "projects": "Projects",
+    "education": "Education",
+    "contact": "Contact",
+    "brand": "TB | FULL STACK"
+  },
+  "hero": {
+    "eyebrow": "AI • FULL STACK • SCALABLE SOLUTIONS",
+    "hello": "Hi, I'm",
+    "name": "Tymir Barr",
+    "headline": "Full Stack Engineer building AI-driven applications and scalable platforms.",
+    "roles": [
+      "Full Stack Engineer",
+      "AI Applications",
+      "Data Visualization"
+    ],
+    "description": "I build AI-powered products end to end, from responsive interfaces and clean APIs to secure backends and cloud deployments. Today I'm a Full Stack Engineer at Skylark AI Inc., turning ideas into user-centered platforms that scale.",
+    "featuredProject": "View projects",
+    "contactButton": "Contact me",
+    "location": "Tampa, Florida"
+  },
+  "intro": {
+    "title": "Deploying portfolio",
+    "subtitle": "Preparing the cloud environment",
+    "progressLabel": "Portfolio launch progress",
+    "skip": "Skip intro",
+    "stages": {
+      "azure": "Initializing infrastructure",
+      "automation": "Loading CI/CD pipeline",
+      "interface": "Deploying the portfolio interface"
+    }
+  },
+  "about": {
+    "title": "About me",
+    "subtitle": "AI-driven applications, scalable platforms and user-centered products.",
+    "paragraph1": "I'm a full-stack engineer based in Tampa, Florida, focused on artificial intelligence and data visualization. At Skylark AI Inc. I build AI-driven applications and scalable platforms, working in Agile teams to deliver robust, user-centered solutions.",
+    "paragraph2": "Along the way I've led engineering work at Reforge and built products at TherapyZen and Better Health Therapeutics. That work taught me how to create responsive user interfaces, integrate APIs cleanly, and keep backend systems secure and efficient, especially in healthcare, where reliability matters most.",
+    "paragraph3": "I studied Statistics and Psychology at Rutgers University, and both still shape how I build: I care about the data behind a product and the people who use it. I'm passionate about AI-powered platforms that make digital workflows faster, smarter and more useful.",
+    "facts": [
+      "Building software since 2017",
+      "AI applications & data visualization",
+      "Lead engineer experience",
+      "B.A. Statistics & Psychology, Rutgers"
+    ]
+  },
+  "expertise": {
+    "title": "Expertise",
+    "subtitle": "Technologies and practices I use to design, build and ship AI-powered products.",
+    "cards": {
+      "ai": {
+        "title": "AI-Powered Applications",
+        "description": "Building AI features into real products, from document intelligence workflows to audio-based learning tools."
+      },
+      "fullstack": {
+        "title": "Full-Stack & SaaS Development",
+        "description": "Responsive interfaces, clean APIs, and secure, efficient backends for web and SaaS platforms."
+      },
+      "cloud": {
+        "title": "Cloud & Databases",
+        "description": "Deploying and scaling cloud applications and designing the databases behind them."
+      },
+      "data": {
+        "title": "Data Visualization & Leadership",
+        "description": "Turning data into clear, useful views and leading teams to ship reliable software."
+      }
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "Full-stack and AI engineering across startups, healthcare and SaaS platforms.",
+    "items": {
+      "skylark": {
+        "title": "Full Stack Engineer",
+        "dates": "May 2023 to Present · Full-time · Remote",
+        "description": "I build AI-driven applications and scalable platforms across the full stack, using Agile methods and data visualization to deliver robust, user-centered solutions."
+      },
+      "reforge": {
+        "title": "Lead Software Engineer",
+        "dates": "Mar 2025 to Feb 2026 · Full-time · Remote",
+        "description": "I led engineering work on the product, guiding technical direction and building front-end features with Vue.js while helping the team deliver reliable releases."
+      },
+      "therapyzen": {
+        "title": "Software Engineer",
+        "dates": "Mar 2020 to Sep 2021 · Full-time · Hybrid",
+        "description": "I contributed to the development of a scalable platform supporting therapists, clients, scheduling, and digital practice workflows."
+      },
+      "betterhealth": {
+        "title": "Full Stack Developer",
+        "dates": "Sep 2017 to Feb 2019 · Part-time · Remote",
+        "description": "I worked across the application stack of a healthcare-focused digital platform, building reliable patient-facing experiences and internal workflows."
+      }
+    }
+  },
+  "credentials": {
+    "title": "Certifications",
+    "subtitle": "Certifications across cloud platforms, DevOps, data and security.",
+    "certificationLinkLabel": "Open certification {{name}}",
+    "certificationsTitle": "Current Certifications"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Practical projects covering cloud infrastructure, IaC, CI/CD, automation and security.",
+    "actions": {
+      "viewRepository": "View repository",
+      "projectGallery": "Project gallery",
+      "hideProjectGallery": "Hide gallery",
+      "liveDemo": "Live demo"
+    },
+    "mbti": {
+      "title": "Adaptive MBTI Personality Quiz Engine",
+      "tagline": "An adaptive personality assessment application built around a modular Bayesian inference engine.",
+      "description": [
+        "Rather than presenting every question in a fixed sequence, the engine uses previous responses to estimate personality traits and select the next question based on how much uncertainty it is expected to reduce.",
+        "The system separates the core assessment logic from the user interface, with distinct components for question selection, probabilistic updates, personality classification, and API integration. This separation makes the engine easier to test, extend, and evaluate independently of the quiz experience.",
+        "A key engineering challenge is balancing assessment efficiency with classification accuracy. The engine updates its estimates after each answer, evaluates the remaining uncertainty across four MBTI dimensions, and determines when there is enough confidence to conclude the assessment. Simulation and benchmarking tools help compare adaptive question selection with alternative strategies.",
+        "The result is a more efficient, data-driven quiz experience supported by a reusable assessment architecture, a Python backend, and a browser-based interface."
+      ]
+    },
+    "networkLab": {
+      "title": "Azure Network Infrastructure Lab (Under development)",
+      "tagline": "A teaching project prepared for Network Infrastructure Management students.",
+      "description": "An Infrastructure as Code lab created as a teaching example for Network Infrastructure Management students. The project deploys an Azure Resource Group, a Virtual Network, three network segments, Network Security Groups, Windows Server virtual machines, and an Ubuntu virtual machine prepared for security monitoring with Wazuh. It demonstrates network segmentation, restricted backend access, and repeatable environment provisioning with Terraform."
+    },
+    "gallery": {
+      "mbtiQuizInterface": "Adaptive MBTI quiz interface with question progress and answer scale",
+      "mbtiTestQuestion": "MBTI personality test question with five-point answer options",
+      "mbtiArchitecture": "Adaptive engine architecture with Bayesian uncertainty and question selection",
+      "mbtiDashboard": "Quiz performance dashboard with category breakdown",
+      "networkLabOverview": "Azure Network Infrastructure Lab architecture overview",
+      "networkLabApplyInfra": "Infrastructure deployment view for Azure Network Infrastructure Lab"
+    },
+    "technologiesLabel": "Technologies & Engineering"
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "The academic foundation behind my data-driven, user-centered approach.",
+    "items": {
+      "rutgers": {
+        "degree": "Bachelor of Arts",
+        "field": "Statistics and Psychology",
+        "institution": "Rutgers University",
+        "period": "May 2013 to Apr 2017",
+        "description": "Studying statistics and psychology together gave me a strong grounding in data analysis and in how people think and behave. I still lean on both every day, whether I'm building data visualizations or designing user-centered products."
+      }
+    }
+  },
+  "contact": {
+    "title": "Let's talk about AI-powered products, full-stack development, SaaS platforms, or your next software project.",
+    "description": "The best way to reach me is through LinkedIn.",
+    "button": "Message me on LinkedIn",
+    "emailButton": "Send me an email"
+  },
+  "footer": {
+    "copyright": "© 2026 Tymir Barr",
+    "backToTop": "Back to top"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Patryk Jabłoński | DevOps, Cloud & Systems Engineer",
+  "short_name": "PJ Cloud Ops",
+  "description": "Azure Cloud Operations Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050b14",
+  "theme_color": "#050b14",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

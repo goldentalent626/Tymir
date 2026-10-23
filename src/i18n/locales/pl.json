@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "title": "Patryk Jabłoński | DevOps, Cloud & Systems Engineer",
+    "description": "Portfolio Patryka Jabłońskiego, inżyniera DevOps, Cloud i Systems specjalizującego się w Microsoft Azure, Terraform, CI/CD, automatyzacji i środowiskach produkcyjnych."
+  },
+  "accessibility": {
+    "skipToContent": "Przejdź do treści",
+    "languageSelection": "Wybór języka",
+    "openMenu": "Otwórz menu",
+    "closeMenu": "Zamknij menu",
+    "openImage": "Powiększ grafikę",
+    "closeModal": "Zamknij podgląd",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "orcid": "ORCID",
+    "email": "Mail",
+    "mobileNavigation": "Nawigacja mobilna"
+  },
+  "navigation": {
+    "home": "Start",
+    "about": "O mnie",
+    "expertise": "Kompetencje",
+    "experience": "Doświadczenie",
+    "credentials": "Certyfikaty",
+    "projects": "Projekty",
+    "academic": "Nauka",
+    "contact": "Kontakt",
+    "brand": "PJ | DEVOPS"
+  },
+  "hero": {
+    "eyebrow": "AZURE • DEVOPS • SYSTEMS",
+    "hello": "Cześć, jestem",
+    "name": "Patryk Jabłoński",
+    "headline": "Inżynier systemowy i DevOps, specjalizujący się w Microsoft Azure.",
+    "roles": ["Inżynier", "Wykładowca akademicki", "Doktorant"],
+    "description": "Pracuję z infrastrukturą Azure, systemami Windows i Linux oraz automatyzacją wdrożeń. Tworzę rozwiązania w Terraformie, rozwijam potoki CI/CD i wspieram utrzymanie środowisk produkcyjnych.",
+    "featuredProject": "Zobacz projekty",
+    "contactButton": "Napisz do mnie",
+    "location": "Nowy Sącz, Polska"
+  },
+  "intro": {
+    "title": "Wdrażam portfolio",
+    "subtitle": "Przygotowuję środowisko chmurowe",
+    "progressLabel": "Postęp uruchamiania portfolio",
+    "skip": "Pomiń intro",
+    "stages": {
+      "azure": "Inicjalizacja infrastruktury",
+      "automation": "Uruchamianie potoku CI/CD",
+      "interface": "Wdrażanie interfejsu portfolio"
+    }
+  },
+  "about": {
+    "title": "O mnie",
+    "subtitle": "Infrastruktura, automatyzacja i odpowiedzialność za środowiska produkcyjne.",
+    "paragraph1": "Pracuję jako inżynier systemowy i DevOps, specjalizując się w Chmurze Azure. Zajmuję się utrzymaniem środowisk krytycznych biznesowo, projektowaniem infrastruktury chmurowej, automatyzacją wdrożeń oraz poprawą bezpieczeństwa i obserwowalności systemów.",
+    "paragraph2": "W codziennej pracy łączę Azure Cloud, Terraform, CI/CD, Docker, PowerShell, Bash, systemy operacyjne Windows i Linux, a także bazy danych. Zależy mi nie tylko na tym, aby rozwiązanie działało, ale również aby było powtarzalne, udokumentowane i możliwe do bezpiecznego rozwijania.",
+    "paragraph3": "Równolegle prowadzę zajęcia akademickie i rozwijam działalność naukową związaną ze sztuczną inteligencją, automatyzacją i transformacją cyfrową.",
+    "facts": [
+      "7+ lat w IT",
+      "Azure Cloud, IaC i CI/CD",
+      "Wykładowca akademicki",
+      "Publikacje naukowe"
+    ]
+  },
+  "expertise": {
+    "title": "Kompetencje",
+    "subtitle": "Technologie i praktyki, które wykorzystuję w projektowaniu, wdrażaniu i utrzymaniu systemów.",
+    "cards": {
+      "cloud": {
+        "title": "Chmura Azure",
+        "description": "Projektowanie i wdrażanie bezpiecznej infrastruktury Azure z wykorzystaniem deklaratywnego podejścia i powtarzalnych modułów."
+      },
+      "cicd": {
+        "title": "CI/CD & Kontenery",
+        "description": "Automatyzacja budowania, testowania, skanowania i wdrażania aplikacji oraz infrastruktury."
+      },
+      "ops": {
+        "title": "Systemy & Operacje",
+        "description": "Administracja systemami, obsługa środowisk produkcyjnych, monitoring i reagowanie na incydenty."
+      },
+      "automation": {
+        "title": "Automatyzacja, Bezpieczeństwo & Dane",
+        "description": "Skrypty, automatyzacja procesów, kontrola bezpieczeństwa oraz praca z bazami danych."
+      }
+    }
+  },
+  "experience": {
+    "title": "Doświadczenie",
+    "subtitle": "Doświadczenie zawodowe i dydaktyczne w obszarze infrastruktury, systemów, chmury i automatyzacji.",
+    "items": {
+      "lecturer": {
+        "title": "Wykładowca akademicki",
+        "dates": "od października 2025 (obecnie, część etatu)",
+        "description": "Prowadzę zajęcia z zakresu generatywnej sztucznej inteligencji, zarządzania infrastrukturą sieciową, systemów operacyjnych i automatyzacji procesów."
+      },
+      "devops": {
+        "title": "Inżynier systemowy & DevOps",
+        "dates": "od kwietnia 2025 (obecnie)",
+        "description": "Utrzymuję środowiska produkcyjne i infrastrukturę Azure, tworzę potoki CI/CD, rozwijam infrastrukturę w Terraformie, automatyzuję wdrożenia i administrację oraz pracuję nad bezpieczeństwem, monitoringiem, dostępnością i wydajnością systemów."
+      },
+      "implementation": {
+        "title": "Inżynier ds. wsparcia i wdrożeń",
+        "dates": "od 2018 do marca 2025",
+        "description": "Wdrażałem i utrzymywałem oprogramowanie, serwery, sieci i bazy danych, automatyzowałem zadania wdrożeniowe, wspierałem klientów oraz przygotowywałem dokumentację i analizy techniczne."
+      }
+    }
+  },
+  "credentials": {
+    "title": "Certyfikaty i ukończone kursy",
+    "subtitle": "Certyfikaty i kursy z zakresu chmury, automatyzacji, systemów i danych.",
+    "certificationLinkLabel": "Otwórz certyfikat {{name}}",
+    "courseLinkLabel": "Otwórz kurs {{name}}",
+    "certificationsTitle": "Certyfikaty",
+    "courses": {
+      "title": "Ukończone kursy",
+      "itemsCount": "{{count}} pozycji",
+      "categories": {
+        "cloudDevOpsSystems": "Chmura, DevOps i systemy operacyjne",
+        "databasesAnalytics": "Bazy danych i analityka",
+        "processAutomation": "Automatyzacja procesów"
+      }
+    }
+  },
+  "projects": {
+    "title": "Projekty",
+    "subtitle": "Praktyczne projekty z zakresu infrastruktury chmurowej, IaC, CI/CD, automatyzacji i bezpieczeństwa.",
+    "actions": {
+      "viewRepository": "Zobacz repozytorium",
+      "projectGallery": "Galeria projektu",
+      "hideProjectGallery": "Ukryj galerię"
+    },
+    "featured": {
+      "title": "Azure Terraform Docker Guestbook (W trakcie rozbudowy)",
+      "tagline": "Kompletny proces CI/CD dla aplikacji kontenerowej .NET wdrażanej w Microsoft Azure.",
+      "description": "Projekt pokazuje pełny proces zaprojektowania, utworzenia, zabezpieczenia i wdrożenia aplikacji chmurowej. Infrastruktura jest tworzona w Terraformie, aplikacja działa w kontenerze Docker, a GitHub Actions realizuje planowanie i wdrożenie infrastruktury, testy, skanowanie bezpieczeństwa, budowę obrazu oraz publikację do Azure Container Apps."
+    },
+    "networkLab": {
+      "title": "Azure Network Infrastructure Lab (W trakcie rozbudowy)",
+      "tagline": "Projekt dydaktyczny przygotowany dla studentów zarządzania infrastrukturą sieciową.",
+      "description": "Laboratorium Infrastructure as Code przygotowane jako przykład dydaktyczny dla studentów zarządzania infrastrukturą sieciową. Projekt wdraża w Microsoft Azure grupę zasobów, sieć wirtualną, trzy segmenty sieci, reguły Network Security Group, maszyny Windows Server oraz maszynę Ubuntu przygotowaną do monitorowania bezpieczeństwa z Wazuh. Pokazuje segmentację sieci, ograniczenie dostępu do warstwy backendowej i powtarzalne tworzenie środowiska przy użyciu Terraform."
+    },
+    "gallery": {
+      "architecture": "Przegląd architektury Azure i warstw infrastruktury",
+      "pipeline": "Widok workflow GitHub Actions",
+      "application": "Interfejs aplikacji Guestbook",
+      "terraform": "Diagram modułów Terraform",
+      "networkLabOverview": "Przegląd architektury projektu Azure Network Infrastructure Lab",
+      "networkLabApplyInfra": "Widok wdrożenia infrastruktury w projekcie Azure Network Infrastructure Lab"
+    }
+  },
+  "academic": {
+    "title": "Nauka i działalność akademicka",
+    "subtitle": "Połączenie praktyki inżynierskiej z pracą dydaktyczną i publikacjami naukowymi.",
+    "education": {
+      "title": "Edukacja",
+      "items": {
+        "phd": {
+          "title": "Studia doktoranckie (Zarządzanie i jakość)",
+          "institution": "Akademia Górnośląska w Katowicach",
+          "period": "od 2025 (obecnie)"
+        },
+        "postgraduate": {
+          "title": "Studia podyplomowe (DevOps)",
+          "institution": "WSB-NLU w Nowym Sączu",
+          "period": "2025 do 2026"
+        },
+        "mba": {
+          "title": "Master of Business Administration",
+          "institution": "WSB-NLU w Nowym Sączu",
+          "period": "2024 do 2025"
+        },
+        "master": {
+          "title": "Magister zarządzania (Zarządzanie projektami)",
+          "institution": "WSB-NLU w Nowym Sączu",
+          "period": "2023 do 2025"
+        },
+        "engineer": {
+          "title": "Inżynier informatyki i ekonometrii",
+          "institution": "Uniwersytet DSW Ideis Kraków",
+          "period": "2019 do 2023"
+        }
+      }
+    },
+    "teaching": {
+      "title": "Prowadzone zajęcia",
+      "areas": [
+        "Generatywna sztuczna inteligencja",
+        "Zarządzanie infrastrukturą sieciową",
+        "Systemy operacyjne",
+        "Automatyzacja procesów"
+      ]
+    },
+    "publications": {
+      "title": "Publikacje",
+      "read": "Pełny tekst",
+      "viewOrcid": "Zobacz profil ORCID"
+    }
+  },
+  "contact": {
+    "title": "Porozmawiajmy o chmurze, DevOps, infrastrukturze, automatyzacji, współpracy akademickiej lub projektach technologicznych.",
+    "description": "Najlepszym sposobem kontaktu ze mną jest wiadomość na LinkedIn.",
+    "button": "Napisz do mnie na LinkedIn",
+    "emailButton": "Wyślij do mnie e-mail"
+  },
+  "footer": {
+    "copyright": "© 2026 Patryk Jabłoński",
+    "backToTop": "Wróć na górę"
+  }
+}
